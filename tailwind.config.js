@@ -5,10 +5,10 @@ module.exports = {
     extend: {
       spacing: {
         14: "3.5rem",
-        "152px": "125px",
+        "125px": "125px",
       },
       colors: {
-        hoverspt: "#18D760",
+        "hover-spt": "#18D760",
         "purple-main": "#2D46B9",
         "green-main": "#1ED760",
       },
