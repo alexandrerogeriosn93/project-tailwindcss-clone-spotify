@@ -667,6 +667,11 @@ video {
   color: rgb(255 255 255 / var(--tw-text-opacity));
 }
 
+.hover\:text-hover-spt:hover {
+  --tw-text-opacity: 1;
+  color: rgb(24 215 96 / var(--tw-text-opacity));
+}
+
 @media (min-width: 768px) {
   .md\:flex {
     display: flex;
@@ -674,6 +679,10 @@ video {
 
   .md\:hidden {
     display: none;
+  }
+
+  .md\:w-125px {
+    width: 125px;
   }
 
   .md\:px-20 {
