@@ -13,8 +13,8 @@ module.exports = {
         "green-main": "#1ED760",
       },
       backgroundImage: (theme) => ({
-        "spotify-theme": "url('/assets/img/bursts.svg')",
-        "spotify-theme-mobile": "url('/assets/img/bursts-mobile.svg')",
+        "spotify-theme": "url('/src/assets/img/bursts.svg')",
+        "spotify-theme-mobile": "url('/src/assets/img/bursts-mobile.svg')",
       }),
       backgroundSize: {
         "175%": "175%",
